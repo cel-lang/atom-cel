@@ -1,7 +1,7 @@
 {
   "name": "Cel",
   "main": "./lib/atom-cel",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "The Official Cel Language plugin for Atom.",
   "keywords": [
   ],
